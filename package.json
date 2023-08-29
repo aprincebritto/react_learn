@@ -1,0 +1,22 @@
+{
+  "name": "my-test-react-one",
+  "version": "1.0.0",
+  "description": "my learning react one",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aprincebritto"
+  },
+  "keywords": [
+    "my-test-react"
+  ],
+  "author": "Prince <princebritto@gmail.com> (https://github.com/aprincebritto)",
+  "license": "UNLICENSED"
+}
